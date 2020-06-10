@@ -1,0 +1,10 @@
+NODE_ENV=prod or dev
+APP_NAME=your name
+PORT=your backend port comes here
+CLIENT_URL=front end port comes here
+DATABASE_CLOUD=your cloud comes here
+DATABASE_LOCAL=your mongo local id
+SENDGRID_API_KEY=your api key comes here
+JWT_SECRET=your secret key comes here 
+EMAIL_FROM=your email id comes here
+JWT_RESET_PASSWORD=your secret key
